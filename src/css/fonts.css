@@ -1,0 +1,59 @@
+    @font-face {
+        font-family: 'MuseoSansCyrl100';
+        src: url('../fonts/MuseoSansCyrl100.otf');
+        src: url('../fonts/MuseoSansCyrl100.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl100.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl100.ttf') format('truetype');
+        font-weight: 100;
+        font-style: normal;
+        }
+
+    @font-face {
+        font-family: 'MuseoSansCyrl300';
+        src: url('../fonts/MuseoSansCyrl300.otf');
+        src: url('../fonts/MuseoSansCyrl300.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl300.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl300.ttf') format('truetype');
+        font-weight: 300;
+        font-style: normal;
+        }
+
+    @font-face {
+        font-family: 'MuseoSansCyrl500';
+        src: url('../fonts/MuseoSansCyrl300.otf');
+        src: url('../fonts/MuseoSansCyrl500.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl500.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl500.ttf') format('truetype');
+        font-weight: 500;
+        font-style: normal;
+        }
+
+    @font-face {
+        font-family: 'MuseoSansCyrl700';
+        src: url('../fonts/MuseoSansCyrl700.otf');
+        src: url('../fonts/MuseoSansCyrl700.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl700.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl700.ttf') format('truetype');
+        font-weight: 700;
+        font-style: normal;
+        }
+
+    @font-face {
+        font-family: 'MuseoSansCyrl900';
+        src: url('../fonts/MuseoSansCyrl900.otf');
+        src: url('../fonts/MuseoSansCyrl900.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl900.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl900.ttf') format('truetype');
+        font-weight: 900;
+        font-style: normal;
+        }
+
+    @font-face {
+        font-family: 'Roboto Light';
+        src: url('Roboto-Light.eot');
+        src: url('Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Light.woff') format('woff'),
+        url('Roboto-Light.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
